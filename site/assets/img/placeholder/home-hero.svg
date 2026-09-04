@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080" role="img" aria-label="HERO BACKGROUND VIDEO placeholder">
+<defs><pattern id="p" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+<line x1="0" y1="0" x2="0" y2="14" stroke="#0A1F1A" stroke-width="1" opacity=".05"/></pattern></defs>
+<rect width="1920" height="1080" fill="#EDF4F1"/><rect width="1920" height="1080" fill="url(#p)"/>
+<rect x="1" y="1" width="1918" height="1078" fill="none" stroke="#079C91" stroke-width="2" stroke-dasharray="10 7" opacity=".3"/>
+<circle cx="960" cy="514" r="30" fill="none" stroke="#079C91" stroke-width="1.5" opacity=".55"/><path d="M 0 -13 L 20 0 L 0 13 Z" transform="translate(963,514)" fill="#079C91" opacity=".7"/>
+<text x="960" y="562" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#0A1F1A" opacity=".8">HERO BACKGROUND VIDEO</text>
+<text x="960" y="586" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#0A1F1A" opacity=".5">MP4 + WebM, 1920x1080, 12-20s silent loop</text>
+<text x="960" y="608" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" letter-spacing="1.5" fill="#079C91" opacity=".7">1920 x 1080</text>
+</svg>

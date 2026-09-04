@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 780" width="1400" height="780" role="img" aria-label="ARTICLE LEAD IMAGE placeholder">
+<defs><pattern id="p" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+<line x1="0" y1="0" x2="0" y2="14" stroke="#0A1F1A" stroke-width="1" opacity=".05"/></pattern></defs>
+<rect width="1400" height="780" fill="#EDF4F1"/><rect width="1400" height="780" fill="url(#p)"/>
+<rect x="1" y="1" width="1398" height="778" fill="none" stroke="#0A1F1A" stroke-width="2" stroke-dasharray="10 7" opacity=".3"/>
+<g opacity=".35" stroke="#0A1F1A" stroke-width="1.5" fill="none"><rect x="672" y="342" width="56" height="44" rx="4"/><circle cx="688" cy="356" r="6"/><path d="M672 382 l14 -14 l12 12 l9 -8 l21 20 z" fill="#0A1F1A" stroke="none" opacity=".5"/></g>
+<text x="700" y="412" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#0A1F1A" opacity=".8">ARTICLE LEAD IMAGE</text>
+<text x="700" y="436" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#0A1F1A" opacity=".5">Protein, fibre and feeling full</text>
+<text x="700" y="458" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" letter-spacing="1.5" fill="#0A1F1A" opacity=".7">1400 x 780</text>
+</svg>
